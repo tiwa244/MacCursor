@@ -1,5 +1,5 @@
 # MacCursor
-# orinigal by Apple
+# original by Apple
 ```
 There Nothing Here
 ```
